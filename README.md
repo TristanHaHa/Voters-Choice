@@ -3,10 +3,12 @@ Voting app for the 2018 midterm elections that won the Congressional App Challen
 
 ## Usage
 To use Voters-Choice, visit this link:
+
 https://studio.code.org/projects/applab/X1qEm6z6eBDk5VBfF_29GC9G1zPsG33iyxQaC7oNNW8
 
 ## Demonstration
-Watch the YouTube video that won the challenge
+Visit this link to watch the demonstration video that won the challenge:
+
 https://www.youtube.com/watch?v=KMAGoyX-WFQ&feature=youtu.be
 
 ## Note
